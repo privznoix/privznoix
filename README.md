@@ -59,6 +59,6 @@ I love the whole app development process. I like the challenge of finding bugs a
 
 
 ## 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=privznoix&show_icons=true)
+![PrivZnOIX's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=privznoix&show_icons=true)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=privznoix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
