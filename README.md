@@ -34,9 +34,8 @@ I love the whole app development process. I like the challenge of finding bugs a
 
 ## 🔭 I'm currently working on
 
-- Programmer in a manufacturing company
+- Technical Developer
 - Epicor Freelance Developer
-- Mobile App: Yasin & Tahlil Apps (Soon...)
 - My TikTok video 👀
 
 ## 🌱 I’m currently learning
